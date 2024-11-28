@@ -1,0 +1,11 @@
+{
+  "name": "space.futura.apirequestbuilder",
+  "version": "1.0.0",
+  "displayName": "Api Request Builder",
+  "description": "Builder to send api requests.",
+  "author": {
+    "name": "Victor Romero",
+    "email": "victor@romero.tech",
+    "url": "https://www.xenxei.me"
+  }
+}
